@@ -30,6 +30,15 @@ This is a clean, educational implementation that demonstrates core concepts of c
 - Shift-left-2 units
 - Multiplexers for datapath selection
 
+Everything is neatly organized as subcircuits in one Logisim project.
+
+---
+
+## 🖼 Screenshots
+
+<img width="1185" height="694" alt="Screenshot 2025-12-03 at 14 24 15" src="https://github.com/user-attachments/assets/7a97811b-5a2d-4a81-b79f-613e25c9bee4" />
+
+
 ---
 
 ## 🧩 Datapath Overview
